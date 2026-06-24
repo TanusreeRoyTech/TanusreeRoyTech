@@ -1,10 +1,12 @@
 # Hi, I'm Tanusree 👋
 
-PhD Engineer and Researcher based in Aarhus, Denmark. Originally from India, now building my professional journey in Denmark.
+PhD Engineer and Researcher based in Aarhus, Denmark.
 
-My experience spans research, engineering, digital innovation, and international collaboration. Over the years I have worked across Digital Twins, Battery Passport solutions, IoT systems, data analytics, project leadership, and multidisciplinary technology development.
+My professional journey has taken me from academia and research in India to innovation-driven projects in Denmark. Over the years, I have worked across research, engineering, digital innovation, and international collaboration, contributing to Digital Twins, Battery Passport solutions, IoT systems, data analytics, and multidisciplinary technology development.
 
-More recently, I have been exploring Generative AI and Multi-Agent Systems through hands-on projects using LangGraph, Azure OpenAI, Python, and Streamlit.
+I enjoy working at the intersection of technology, research, and real-world problem solving, translating complex ideas into practical solutions that create value for industry and society.
+
+Recently, I have been expanding my expertise in Agentic AI and Multi-Agent Systems through hands-on projects using LangGraph, Azure OpenAI, Python, and Streamlit.
 
 ## What I work on
 
@@ -15,35 +17,36 @@ More recently, I have been exploring Generative AI and Multi-Agent Systems throu
 * Research, innovation, and technology transfer
 * Project coordination and stakeholder engagement
 
-## What I'm curious about
+## Current Focus
 
-* Generative AI and Multi-Agent Systems
-* Sustainable digital technologies
-* Human-centered AI applications
-* Digital transformation and innovation
-* The intersection of research and real-world impact
+- Agentic AI and Multi-Agent Systems
+- Digital Twins and Battery Passport Solutions
+- Sustainable Digital Technologies
+- Human-Centered AI Applications
+- Digital Innovation and Technology Adoption
+- Bridging Research with Real-World Impact
 
-## Tech I reach for
+## Technologies & Tools
 
-**AI & Software**
+**AI & Software:**
 LangGraph · LangChain · Azure OpenAI · Azure AI Foundry · Streamlit · Pydantic · GitHub
 
-**Programming**
+**Programming:**
 Python · MATLAB · C · C++
 
-**Data & Digital Technologies**
+**Data & Digital Technologies:**
 Semantic Search · RAG · Data Analytics · IoT · Digital Twins · Battery Passport Frameworks
 
-**Engineering & Simulation**
+**Engineering & Simulation:**
 MATLAB/Simulink · LabVIEW · COMSOL Multiphysics · Multisim
 
-## Research & Innovation
+## Research & Innovation Highlights
 
-* Horizon Europe projects (HELIOS and CUBER)
-* Battery Passport and Digital Twin initiatives
-* Research supervision and interdisciplinary collaboration
-* Government-funded research projects
-* Academic publications, patents, and innovation activities
+- Contributor to Horizon Europe projects (HELIOS and CUBER)
+- Experience with Digital Twin and Battery Passport initiatives
+- Research supervision and interdisciplinary collaboration
+- Participation in government-funded research projects
+- Academic publications, patents, and innovation activities
 
 ## Find Me
 
@@ -54,3 +57,4 @@ MATLAB/Simulink · LabVIEW · COMSOL Multiphysics · Multisim
 📍 Aarhus, Denmark
 
 *"Always curious about how technology, data, and innovation can be used to solve meaningful real-world challenges."*
+
