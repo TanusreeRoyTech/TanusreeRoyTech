@@ -52,3 +52,5 @@ MATLAB/Simulink · LabVIEW · COMSOL Multiphysics · Multisim
 📧 Email: [tanusree.rinki@gmail.com](mailto:tanusree.rinki@gmail.com)
 
 📍 Aarhus, Denmark
+
+*"Always curious about how technology, data, and innovation can be used to solve meaningful real-world challenges."*
